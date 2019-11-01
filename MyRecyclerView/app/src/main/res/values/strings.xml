@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biodata Pemain PSIS</string>
+    <string name="player_name">Nama Pemain</string>
+    <string name="detail">Biodata</string>
+</resources>
