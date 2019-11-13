@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pemain PSIS 2019</string>
+    <string name="Profil">Profil</string>
+    <string name="Profil1">Profil1</string>
+    <string name="this_Profil">BIODATA</string>
+    <string name="isiNama">: Risnadona Putra Milandika </string>
+    <string name="isiNIM">: 3.34.18.1.21</string>
+    <string name="isiprodi">: D3-Teknik Informatika</string>
+    <string name="isiasal">: Wonogiri</string>
+    <string name="isihobi">: Futsal,sepakbola</string>
+    <string name="isimoto">: urip iku urup, urip mung mampir ngombe</string>
+    <string name="isiklub">: PSIS Semarang,Juventus</string>
+    <string name="isilagu">: Orkes Dangdut Koplo</string>
+
+    <string name="Nama">Nama </string>
+    <string name="NIM">Nim</string>
+    <string name="prodi">Prodi</string>
+    <string name="asal">Asal</string>
+    <string name="hobi">Hobi</string>
+    <string name="moto">Motto</string>
+    <string name="klub">Klub Favorit</string>
+    <string name="lagu">Musik</string>
+
+
+</resources>
